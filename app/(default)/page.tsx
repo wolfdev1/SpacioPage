@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'Home - Spacio',
+  description: 'Spacio Discord Bot',
 }
 
 import Hero from '@/components/hero'
